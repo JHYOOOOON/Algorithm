@@ -10,3 +10,4 @@
 |순번|레벨|제목|풀이|날짜|
 |:---:|:---:|:---:|:---:|:---:|
 |1|2|[N개의 최소 공배수](https://programmers.co.kr/learn/courses/30/lessons/12953?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/N%EA%B0%9C%EC%9D%98%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.js)|220309|
+|2|2|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98.js)|220310|
