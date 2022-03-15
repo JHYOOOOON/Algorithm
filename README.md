@@ -17,3 +17,4 @@
 |6|2|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.js)|220312|
 |7|2|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98.js)|220313|
 |8|2|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/768e4c75a505ede57075e77fe4520610a9fc821d/programmers/%EB%8B%A4%EC%9D%8C%ED%81%B0%EC%88%AB%EC%9E%90.js)|220314|
+|9|2|[피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/422e4d64b6d893038609a6f24a61f77fb5ebcd7b/programmers/%ED%94%BC%EB%A1%9C%EB%8F%84.js)|220315|
