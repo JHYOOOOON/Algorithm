@@ -20,3 +20,4 @@
 |9|2|[피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/422e4d64b6d893038609a6f24a61f77fb5ebcd7b/programmers/%ED%94%BC%EB%A1%9C%EB%8F%84.js)|220315|
 |10|2|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.js)|220316|
 |11|2|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/H-index.js)|220317|
+|12|2|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.js)|220318|
