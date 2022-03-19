@@ -22,3 +22,4 @@
 |11|2|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/H-index.js)|220317|
 |12|2|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.js)|220318|
 |13|2|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js)|220319|
+|14|2|[이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%9D%B4%EC%A7%84%EB%B3%80%ED%99%98%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.js)|220320|
