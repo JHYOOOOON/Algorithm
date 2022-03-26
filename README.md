@@ -28,3 +28,4 @@
 |17|2|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EB%A9%80%EC%A9%A1%ED%95%9C%EC%82%AC%EA%B0%81%ED%98%95.js)|220323|
 |18|2|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%98%81%EC%96%B4%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.js)|220324|
 |19|2|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.js)|220325|
+|20|2|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%ED%8A%9C%ED%94%8C.js)|220326|
