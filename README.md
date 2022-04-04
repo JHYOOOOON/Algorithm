@@ -4,7 +4,7 @@
 
 ### 커밋규칙
 - 문제풀이<br/>(아이콘) 제목
-- 리드미수정<br/>(아이콘) 수정
+- 리드미수정<br/> README 수정
 
 ### 🌱 프로그래머스
 |순번|레벨|제목|풀이|날짜|
@@ -31,3 +31,8 @@
 |20|2|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%ED%8A%9C%ED%94%8C.js)|220326|
 |21|2|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.js)|220327|
 |22|2|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%9C%84%EC%9E%A5.js)|220404|
+
+### 🌊 백준
+|순번|레벨|[번호]제목|풀이|날짜|
+|:---:|:---:|:---:|:---:|:---:|
+|1|실3|[[9372]상근이의 여행](https://www.acmicpc.net/problem/9372)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%EC%97%AC%ED%96%89.cpp)|220404|
