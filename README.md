@@ -30,3 +30,4 @@
 |19|2|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.js)|220325|
 |20|2|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%ED%8A%9C%ED%94%8C.js)|220326|
 |21|2|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.js)|220327|
+|22|2|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%9C%84%EC%9E%A5.js)|220404|
