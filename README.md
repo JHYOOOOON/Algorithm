@@ -36,3 +36,4 @@
 |순번|레벨|[번호]제목|풀이|날짜|
 |:---:|:---:|:---:|:---:|:---:|
 |1|실3|[[9372]상근이의 여행](https://www.acmicpc.net/problem/9372)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%EC%97%AC%ED%96%89.cpp)|220404|
+|2|실3|[[14425]문자열 집합](https://www.acmicpc.net/problem/14425)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/14425.cpp)|220405|
