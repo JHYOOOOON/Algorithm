@@ -37,5 +37,6 @@
 |:---:|:---:|:---:|:---:|:---:|
 |1|실3|[[9372]상근이의 여행](https://www.acmicpc.net/problem/9372)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%EC%97%AC%ED%96%89.cpp)|220404|
 |2|실3|[[14425]문자열 집합](https://www.acmicpc.net/problem/14425)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/14425.cpp)|220405|
-|2|실2|[[14620]꽃길](https://www.acmicpc.net/problem/14620)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/14620.cpp)|220406|
-|2|실3|[[9375]패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/9375.cpp)|220407|
+|3|실2|[[14620]꽃길](https://www.acmicpc.net/problem/14620)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/14620.cpp)|220406|
+|4|실3|[[9375]패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/9375.cpp)|220407|
+|5|실3|[[11478]서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/11478.cpp)|220412|
