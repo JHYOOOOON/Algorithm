@@ -40,3 +40,5 @@
 |3|실2|[[14620]꽃길](https://www.acmicpc.net/problem/14620)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/14620.cpp)|220406|
 |4|실3|[[9375]패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/9375.cpp)|220407|
 |5|실3|[[11478]서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/11478.cpp)|220412|
+|6|실3|[[1535]안녕](https://www.acmicpc.net/problem/1535)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/1535.cpp)|220413|
+|7|실3|[[16493]최대 페이지 수](https://www.acmicpc.net/problem/16493)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/16493.cpp)|220413|
