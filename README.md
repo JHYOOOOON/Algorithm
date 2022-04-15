@@ -43,3 +43,4 @@
 |6|실3|[[1535]안녕](https://www.acmicpc.net/problem/1535)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/1535.cpp)|220413|
 |7|실3|[[16493]최대 페이지 수](https://www.acmicpc.net/problem/16493)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/16493.cpp)|220413|
 |8|실4|[[17219]비밀번호 찾기](https://www.acmicpc.net/problem/17219)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/17219.cpp)|220414|
+|9|실4|[[1302]베스트셀러](https://www.acmicpc.net/problem/1302)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/1302.cpp)|220415|
