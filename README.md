@@ -32,7 +32,7 @@
 |21|2|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.js)|220327|
 |22|2|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%9C%84%EC%9E%A5.js)|220404|
 |23|3|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp)|220418|
-|24|4|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.js)|220418|
+|24|3|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.js)|220418|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
