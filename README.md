@@ -34,6 +34,7 @@
 |23|3|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.cpp)|220418|
 |24|3|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.js)|220418|
 |25|3|[멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EB%A9%80%EB%A6%AC%EB%9B%B0%EA%B8%B0.js)|220418|
+|26|3|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.js)|220419|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
