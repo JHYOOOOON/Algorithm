@@ -36,6 +36,8 @@
 |25|3|[멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EB%A9%80%EB%A6%AC%EB%9B%B0%EA%B8%B0.js)|220418|
 |26|3|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.js)|220419|
 |27|3|[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C.js)|220420|
+|28|3|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.cpp)|220421|
+|29|3|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.js)|220422|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
