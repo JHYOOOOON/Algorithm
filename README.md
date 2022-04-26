@@ -38,6 +38,7 @@
 |27|3|[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C.js)|220420|
 |28|3|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.cpp)|220421|
 |29|3|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628?language=javascript)|[Javascript](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/programmers/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.js)|220422|
+|30|2|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%ED%94%84%EB%A6%B0%ED%84%B0.js)|220426|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
