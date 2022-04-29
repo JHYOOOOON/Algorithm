@@ -41,6 +41,7 @@
 |30|2|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587?language=javascript)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%ED%94%84%EB%A6%B0%ED%84%B0.js)|220426|
 |31|2|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|220427|
 |32|2|[[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/N%EC%A7%84%EC%88%98%EA%B2%8C%EC%9E%84.js)|220428|
+|33|1|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%801%EC%9D%B4%EB%90%98%EB%8A%94%EC%88%98%EC%B0%BE%EA%B8%B0.js)|220429|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
