@@ -60,3 +60,8 @@
 |7|실3|[[16493]최대 페이지 수](https://www.acmicpc.net/problem/16493)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/16493.cpp)|220413|
 |8|실4|[[17219]비밀번호 찾기](https://www.acmicpc.net/problem/17219)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/17219.cpp)|220414|
 |9|실4|[[1302]베스트셀러](https://www.acmicpc.net/problem/1302)|[C++](https://github.com/JHYOOOOON/DailyAlgorithm/blob/main/boj/1302.cpp)|220415|
+
+### 🌟 Leetcode
+|순번|난이도|제목|풀이|날짜|
+|:---:|:---:|:---:|:---:|:---:|
+|1|Easy|[Two Sum](https://leetcode.com/problems/two-sum/submissions/)||220527|
