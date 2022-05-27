@@ -64,4 +64,4 @@
 ### 🌟 Leetcode
 |순번|난이도|제목|풀이|날짜|
 |:---:|:---:|:---:|:---:|:---:|
-|1|Easy|[Two Sum](https://leetcode.com/problems/two-sum/submissions/)||220527|
+|1|Easy|[Two Sum](https://leetcode.com/problems/two-sum/submissions/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/leetcode/TwoSum.js)|220527|
