@@ -47,6 +47,7 @@
 |36|2|[[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680?language=javascript)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%5B1%EC%B0%A8%5D%EC%BA%90%EC%8B%9C.js)|220510|
 |37|2|[[3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683#)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%5B3%EC%B0%A8%5D%20%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.js)|220524|
 |38|2|[주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.js)|220524|
+|39|1|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%EC%82%BC%EC%B4%9D%EC%82%AC.js)|221031|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
