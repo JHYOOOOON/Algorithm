@@ -50,6 +50,7 @@
 |39|1|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%EC%82%BC%EC%B4%9D%EC%82%AC.js)|221031|
 |40|1|[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%EC%88%AB%EC%9E%90%EC%A7%9D%EA%BF%8D.js)|221101|
 |41|1|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/977de2381ee88ac150ee6926376cc8036f9557ad#diff-5e4a0fa336cdbfb49b279d28159f5bb28f599f2b6799a85fb9979af5ed83a5bd)|221107|
+|42|0|[문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/c16d75825e3e948ea73525d4c1db15b904a4c2a9)|221109|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
