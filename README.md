@@ -51,6 +51,14 @@
 |40|1|[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%EC%88%AB%EC%9E%90%EC%A7%9D%EA%BF%8D.js)|221101|
 |41|1|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/977de2381ee88ac150ee6926376cc8036f9557ad#diff-5e4a0fa336cdbfb49b279d28159f5bb28f599f2b6799a85fb9979af5ed83a5bd)|221107|
 |42|0|[문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/c16d75825e3e948ea73525d4c1db15b904a4c2a9)|221109|
+|43|0|[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/807757aea6239c8784fca121a001904eb4349855)|221115|
+|44|0|[세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/e0719a3b62f34a984d79ef00eed938170e826439)|221115|
+|45|0|[n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/d5d482f79c5ef4328c3b7ea850e8605d7a8494e6)|221115|
+|46|0|[잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/5cdf5e19910950f2736b0610cd023fe965cc009b)|221115|
+|47|0|[7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/3d632f7b0533efe803d2baec8f40d6e5e64bb83b)|221115|
+|48|0|[숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/6454a8d6bc3e3bb5036dd91489cf89f482c14812)|221115|
+|49|0|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/0b182fd3ca17f46948289032869bf1bb1c3aaf60)|221115|
+|50|0|[A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/a2ad10a2d0ff699d46e2ca36289912956b3c72ed)|221115|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
