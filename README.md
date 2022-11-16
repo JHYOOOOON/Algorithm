@@ -60,6 +60,7 @@
 |49|0|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/0b182fd3ca17f46948289032869bf1bb1c3aaf60)|221115|
 |50|0|[A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/a2ad10a2d0ff699d46e2ca36289912956b3c72ed)|221115|
 |51|1|[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/0797f4198cf18eb9b7410c3af843ae6118c3a1b3)|221115|
+|52|0|[최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/3d657f3e4d29db70585a870e634a741586240155)|221116|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
