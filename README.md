@@ -62,6 +62,10 @@
 |51|1|[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/0797f4198cf18eb9b7410c3af843ae6118c3a1b3)|221115|
 |52|0|[최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/3d657f3e4d29db70585a870e634a741586240155)|221116|
 |53|1|[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/dfaaf663ad9f3abe3e3ba72d7c9c352fff98cf0c)|221117|
+|54|0|[문자열 안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/1ced976ca77f6d68062d40d888ca22bb1970191c)|221120|
+|55|0|[배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/aacda5563714efef7daf2fb4153468bcfa3076c1)|221120|
+|56|0|[제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/59a2fd8361828ba5168458c924618f26a3178660)|221120|
+|56|0|[머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/75c9a94407443ee3cddb04bd132a147d528a5808)|221120|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
