@@ -66,6 +66,7 @@
 |55|0|[배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/aacda5563714efef7daf2fb4153468bcfa3076c1)|221120|
 |56|0|[제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/59a2fd8361828ba5168458c924618f26a3178660)|221120|
 |56|0|[머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/75c9a94407443ee3cddb04bd132a147d528a5808)|221120|
+|57|0|[배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/5c336ed028385ebfebe2ce6112da993cdd25dc60)|221121|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
