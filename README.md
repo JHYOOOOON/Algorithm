@@ -75,6 +75,7 @@
 |63|1|[조건에 맞는 도서 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144853)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/80ba033084d2d3de377720fa059073848bb191bc)|221218|
 |64|1|[크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/6eca6223e2998c8e30c38afa160038c09321093b)|230101|
 |65|2|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/9f79fdd3c4b77288dd561c886bb63f7654604f0e)|230102|
+|66|1|[옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/e09d95115f5e5d0c7a174cb9b45caeb1bddb91e4)|230102|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
