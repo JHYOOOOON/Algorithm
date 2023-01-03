@@ -76,6 +76,8 @@
 |64|1|[크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/6eca6223e2998c8e30c38afa160038c09321093b)|230101|
 |65|2|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/9f79fdd3c4b77288dd561c886bb63f7654604f0e)|230102|
 |66|1|[옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/e09d95115f5e5d0c7a174cb9b45caeb1bddb91e4)|230102|
+|67|0|[피자 나눠 먹기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%ED%94%BC%EC%9E%90%EB%82%98%EB%88%A0%EB%A8%B9%EA%B8%B0(1).js)|230103|
+|67|0|[양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/09994fd55248e0a9ac49f060634e89e1251d85a9)|230103|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
