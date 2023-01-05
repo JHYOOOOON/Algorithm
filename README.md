@@ -78,6 +78,11 @@
 |66|1|[옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/e09d95115f5e5d0c7a174cb9b45caeb1bddb91e4)|230102|
 |67|0|[피자 나눠 먹기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%ED%94%BC%EC%9E%90%EB%82%98%EB%88%A0%EB%A8%B9%EA%B8%B0(1).js)|230103|
 |67|0|[양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/09994fd55248e0a9ac49f060634e89e1251d85a9)|230103|
+|68|0|[편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/1fe387c2ee29d309ccec0f948c38a6e7dae0d2ab)|230105|
+|69|1|[12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/757a06c430b884f462e55cd6690559a85ecfe769)|230105|
+|70|1|[나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/dc6984bcea87ed898cb7551db43bb263ce802451)|230105|
+|71|1|[경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/7fcfc63478fea1644348e21152b36e8486e0dac0)|230105|
+|72|1|[가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/8a9a7d2861e165548007a18447423be676fe6dbb)|230105|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
