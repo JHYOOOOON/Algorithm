@@ -84,6 +84,7 @@
 |71|1|[경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/7fcfc63478fea1644348e21152b36e8486e0dac0)|230105|
 |72|1|[가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/8a9a7d2861e165548007a18447423be676fe6dbb)|230105|
 |73|1|[과일로 만든 아이스크림 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/133025)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/a3b1c971a9b4c1385747441c5d4b810b238e1993)|230106|
+|74|1|[조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/323e7111b14fb515e00c3bbe5d948d6df9a99704)|230107|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
