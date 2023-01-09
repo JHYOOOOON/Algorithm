@@ -86,6 +86,7 @@
 |73|1|[과일로 만든 아이스크림 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/133025)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/a3b1c971a9b4c1385747441c5d4b810b238e1993)|230106|
 |74|1|[조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/323e7111b14fb515e00c3bbe5d948d6df9a99704)|230107|
 |75|1|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/a7f16b9a9335d89d12a6935351581b914b8a8d65)|230108|
+|76|1|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/7428d2894cdf7a469ed6aa46ddf74618b50d5677)|230109|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
