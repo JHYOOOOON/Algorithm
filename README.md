@@ -89,6 +89,7 @@
 |76|1|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/7428d2894cdf7a469ed6aa46ddf74618b50d5677)|230109|
 |77|1|[강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112)|[MySQL](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%EA%B0%95%EC%9B%90%EB%8F%84%EC%97%90%EC%9C%84%EC%B9%98%ED%95%9C%EC%83%9D%EC%82%B0%EA%B3%B5%EC%9E%A5%EB%AA%A9%EB%A1%9D%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)|230109|
 |78|1|[흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/fcd90184a76341c119366dcf698c0362888a630e)|230109|
+|79|0|[아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/c53270f1d446c199c6b0fdb29827c03475870af0)|230110|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
