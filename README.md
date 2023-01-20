@@ -93,6 +93,7 @@
 |80|0|[가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/ca7addb3b6a0abb6c1e7173efc69e1a13930f09a)|230110|
 |81|0|[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/8022151fa53719e9dc217e078ec8cf272e59d97a)|230111|
 |82|0|[중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/4a11fd1318263049fb3c33fcb1791a8146644815)|230117|
+|83|2|[3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/e37dec611054239d29977533801c973aa69b8ab1)|230120|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
