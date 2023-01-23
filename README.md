@@ -95,6 +95,8 @@
 |82|0|[중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/4a11fd1318263049fb3c33fcb1791a8146644815)|230117|
 |83|2|[3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/e37dec611054239d29977533801c973aa69b8ab1)|230120|
 |84|1|[평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/c9d468c0a31bde4febf863dd549962c3497648bb)|230121|
+|85|0|[피자 나눠 먹기(3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/f8af2ab49b274bbe236d836b611d4a2e4e3040c0)|230123|
+|86|0|[피자 나눠 먹기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/29f9b65c43f867878bca923e6694e4ae2d9e4179)|230123|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
