@@ -97,6 +97,7 @@
 |84|1|[평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/c9d468c0a31bde4febf863dd549962c3497648bb)|230121|
 |85|0|[피자 나눠 먹기(3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/f8af2ab49b274bbe236d836b611d4a2e4e3040c0)|230123|
 |86|0|[피자 나눠 먹기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/29f9b65c43f867878bca923e6694e4ae2d9e4179)|230123|
+|87|2|[성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/1eca108585710e866d0d2b4cfbf210411cd4032c)|230124|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
