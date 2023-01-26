@@ -99,6 +99,8 @@
 |86|0|[피자 나눠 먹기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/29f9b65c43f867878bca923e6694e4ae2d9e4179)|230123|
 |87|2|[성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/1eca108585710e866d0d2b4cfbf210411cd4032c)|230124|
 |88|0|[특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/d5f6c8ee13fbbab5e040f6cfe8d00ffb1f8a54fb)|230125|
+|89|0|[배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/8aaae340cfa285f0b95d4d00ef75176e2f73ea43)|230126|
+|90|0|[나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/3ae2f433b34a3def659d510e68b93fbdcf793715)|230126|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
