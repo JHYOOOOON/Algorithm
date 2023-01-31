@@ -102,6 +102,7 @@
 |89|0|[배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/8aaae340cfa285f0b95d4d00ef75176e2f73ea43)|230126|
 |90|0|[나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/3ae2f433b34a3def659d510e68b93fbdcf793715)|230126|
 |91|0|[짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/03c2e972814bb893595d7ef0ed3ba825890a1622)|230129|
+|92|0|[최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/7f464a5d60f2dda70ddce09728777efdd624671c)|230131|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
