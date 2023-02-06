@@ -104,6 +104,7 @@
 |91|0|[짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/03c2e972814bb893595d7ef0ed3ba825890a1622)|230129|
 |92|0|[최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/7f464a5d60f2dda70ddce09728777efdd624671c)|230131|
 |93|0|[대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/8718ca5777ba4a40b5bd90d20963e32b71fbe584)|230202|
+|94|0|[가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/116467cfe51d9b3f5b0e5537d9de8b45a36b7661)|230206|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
