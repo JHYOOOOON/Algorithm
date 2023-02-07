@@ -107,6 +107,7 @@
 |94|0|[가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/116467cfe51d9b3f5b0e5537d9de8b45a36b7661)|230206|
 |95|0|[개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/51e00b522efc331211cf94b52c135b73366d1103)|230206|
 |96|1|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652?language=javascript)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/d7b701dd4ac57264dbd75e1432430c230995420f)|230207|
+|97|2|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/064a85df215b29cfda5467391f4eba4d75ce6072)|230208|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
