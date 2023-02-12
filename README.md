@@ -109,6 +109,7 @@
 |96|1|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652?language=javascript)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/d7b701dd4ac57264dbd75e1432430c230995420f)|230207|
 |97|2|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/064a85df215b29cfda5467391f4eba4d75ce6072)|230208|
 |98|0|[짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/85d3a8b654e607ac6a2564ea87b4e9f7035b5d0c)|230209|
+|99|1|[특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/10ebd9b901ec341ecbf3fe9bb33349cc214dc32a)|230212|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
