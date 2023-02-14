@@ -111,6 +111,7 @@
 |98|0|[짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/85d3a8b654e607ac6a2564ea87b4e9f7035b5d0c)|230209|
 |99|1|[특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/10ebd9b901ec341ecbf3fe9bb33349cc214dc32a)|230212|
 |100|0|[영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/0b36c9814b93a267c07cec7ad171de9404263729)|230213|
+|101|0|[숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/9f8a669b8ec6830c8bbcb825ad79a6ae96d7275d)|230214|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
