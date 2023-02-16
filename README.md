@@ -113,6 +113,10 @@
 |100|0|[영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/0b36c9814b93a267c07cec7ad171de9404263729)|230213|
 |101|0|[숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/9f8a669b8ec6830c8bbcb825ad79a6ae96d7275d)|230214|
 |102|0|[특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/77ca3059cba6814b5014ccd5182c42a85d645443)|230215|
+|103|0|[문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/cfe78d18de12d73048a6facd2045dcad63ddd23a)|230217|
+|104|0|[문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/48e521602d18f29e9e39e200c7827c17c4de6a17)|230217|
+|105|0|[배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/2ecfb204235728dba9d5943fa365a349d9afab86)|230217|
+|106|0|[배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/451b35a45c042cafb2a3cbea2a8ad1ef609285a4)|230217|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
