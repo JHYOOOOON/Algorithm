@@ -118,6 +118,7 @@
 |105|0|[배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/2ecfb204235728dba9d5943fa365a349d9afab86)|230217|
 |106|0|[배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/451b35a45c042cafb2a3cbea2a8ad1ef609285a4)|230217|
 |107|0|[OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/51e0c83ccad2b6ffde47d76064a894931937227a)|230219|
+|108|2|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/800fbd1bae754c6415753db6717e80d322e42cd1)|230220|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
