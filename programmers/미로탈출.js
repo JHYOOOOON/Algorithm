@@ -28,7 +28,7 @@ function solution(maps) {
 			}
 		}
 
-		return -1;
+		return CANT_EXIT;
 	}
 
 	for (let i = 0; i < ROW; i++) {
