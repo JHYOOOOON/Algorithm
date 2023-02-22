@@ -120,6 +120,7 @@
 |107|0|[OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/51e0c83ccad2b6ffde47d76064a894931937227a)|230219|
 |108|2|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/800fbd1bae754c6415753db6717e80d322e42cd1)|230220|
 |109|1|[카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/790e5d8d3b4984e4d6f807c5e04637516fe03db0)|230221|
+|110|2|[진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/7cef4d33c384e95dc804df37955ce500f5a2488d)|230222|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
