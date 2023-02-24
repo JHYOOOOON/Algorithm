@@ -123,6 +123,7 @@
 |110|2|[진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/7cef4d33c384e95dc804df37955ce500f5a2488d)|230222|
 |111|2|[가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/c850557a90598a31b070360bf145fb3628053208)|230223|
 |112|0|[약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/e01e3c0549b8f4e410590fabb02eb4e16dae594c)|230224|
+|113|0|[문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/2709f2a2346dc416944011650abd7f7eea5b02a8)|230225|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
