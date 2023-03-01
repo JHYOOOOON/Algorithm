@@ -126,6 +126,7 @@
 |113|0|[문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/2709f2a2346dc416944011650abd7f7eea5b02a8)|230225|
 |114|0|[컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/d3179dd7366aef57d73b18e9c768a946a0d7f4c5)|230226|
 |115|0|[가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/306347912281af84062719655f866436863ce327)|230227|
+|116|1|[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/1be6f23bb19a84ab8101b62b81ad3d45c5e0b820)|230301|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
