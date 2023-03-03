@@ -128,6 +128,7 @@
 |115|0|[가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/306347912281af84062719655f866436863ce327)|230227|
 |116|1|[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/1be6f23bb19a84ab8101b62b81ad3d45c5e0b820)|230301|
 |117|0|[외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/dc24b262da013255839d36a1067357704fd0498b)|230302|
+|118|2|[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/e963b0dd1cebe712fff1d0067debdbdf189f322d)|230303|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
