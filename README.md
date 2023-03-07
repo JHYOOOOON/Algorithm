@@ -130,6 +130,7 @@
 |117|0|[외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/dc24b262da013255839d36a1067357704fd0498b)|230302|
 |118|2|[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/e963b0dd1cebe712fff1d0067debdbdf189f322d)|230303|
 |119|2|[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/32437c9604d6b4c59d6c08a950d50b6d2586cd89)|230304|
+|120|0|[문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/b2237f512ff3f1086045afcb9db1092151add26e)|230307|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
