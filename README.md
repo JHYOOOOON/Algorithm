@@ -133,6 +133,7 @@
 |120|0|[문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/b2237f512ff3f1086045afcb9db1092151add26e)|230307|
 |121|1|[조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/bef74ef4af3dd31def0e9bb8b0ca79d88d40fff9)|230310|
 |122|2|[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/d8fe1f7f1775ee28199ecc171a8973843de728a1)|230311|
+|123|0|[모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/32383c343cbf783ab96d8c0a9568ae35d733e1cf)|230312|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
