@@ -135,6 +135,7 @@
 |122|2|[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/d8fe1f7f1775ee28199ecc171a8973843de728a1)|230311|
 |123|0|[모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/32383c343cbf783ab96d8c0a9568ae35d733e1cf)|230312|
 |124|0|[배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/6ede451650bd07abf1bb6fa1862bfb7b4bd7e977)|230313|
+|125|0|[몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/ad21fe28d6e4cfeaeeb951ce9493df7654925353)|230316|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
