@@ -138,6 +138,7 @@
 |125|0|[몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/ad21fe28d6e4cfeaeeb951ce9493df7654925353)|230316|
 |126|0|[숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/37633605f1b08f1d7b4a0cc407cdabc9d3c2cd91)|230320|
 |127|0|[중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/af8fdb00a0ec86cecb2cd368440f9df698d497aa)|230321|
+|128|0|[인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/0081fb3ac0f428356e30bebe886b3372dc6798a5)|230323|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
