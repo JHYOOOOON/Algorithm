@@ -159,4 +159,5 @@
 |:---:|:---:|:---:|:---:|:---:|
 |1|Easy|[Two Sum](https://leetcode.com/problems/two-sum/submissions/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/leetcode/TwoSum.js)|220527|
 |2|Easy|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/leetcode/121.js)|220529|
-|2|Easy|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/leetcode/217.js)|220530|
+|3|Easy|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/leetcode/217.js)|220530|
+|4|Easy|[Add Binary](https://leetcode.com/problems/plus-one/description/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/799407a1dd8b7977c40c5804533ddda0d14e0018)|230327|
