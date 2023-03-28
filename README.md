@@ -161,3 +161,6 @@
 |2|Easy|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/leetcode/121.js)|220529|
 |3|Easy|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/leetcode/217.js)|220530|
 |4|Easy|[Add Binary](https://leetcode.com/problems/plus-one/description/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/799407a1dd8b7977c40c5804533ddda0d14e0018)|230327|
+|5|Easy|[Binary Search](https://leetcode.com/problems/binary-search/description/?envType=study-plan&id=algorithm-i)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/48a03717cb0a1286c0ad17267d1c396436fe6c22)|230328|
+|6|Easy|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/?envType=study-plan&id=algorithm-i)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/8ffc488973e93ef2d7bb7ef3ee93518adbf4c6c9)|230328|
+|7|Easy|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/?envType=study-plan&id=algorithm-i)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/172067326698454b30b57bd15517b5bf4e69dc14)|230328|
