@@ -164,3 +164,4 @@
 |5|Easy|[Binary Search](https://leetcode.com/problems/binary-search/description/?envType=study-plan&id=algorithm-i)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/48a03717cb0a1286c0ad17267d1c396436fe6c22)|230328|
 |6|Easy|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/?envType=study-plan&id=algorithm-i)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/8ffc488973e93ef2d7bb7ef3ee93518adbf4c6c9)|230328|
 |7|Easy|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/?envType=study-plan&id=algorithm-i)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/172067326698454b30b57bd15517b5bf4e69dc14)|230328|
+|8|Easy|[Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/description/?envType=study-plan&id=algorithm-i)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/c4195f1292172a5e906106d47ef3a59c7ee4fcdc)|230329|
