@@ -141,6 +141,7 @@
 |128|0|[인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/0081fb3ac0f428356e30bebe886b3372dc6798a5)|230323|
 |129|1|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/854c96d14e272d1ff63608330d90069f38828e69)|230324|
 |130|0|[중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/ad819ad9fff8ef8652a9cf6fe7377b330fdb356c)|230330|
+|131|0|[두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/55dc485dbcbce9a60a8ec3bdbbab08896ef8073a)|230331|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
