@@ -143,6 +143,7 @@
 |130|0|[중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/ad819ad9fff8ef8652a9cf6fe7377b330fdb356c)|230330|
 |131|0|[두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/55dc485dbcbce9a60a8ec3bdbbab08896ef8073a)|230331|
 |132|0|[외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/f725a183db76852b37642a18795199ab6c113302)|230404|
+|133|1|[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/3407f24969465d9328bfde57a78ff58fc3f411ba)|230405|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
