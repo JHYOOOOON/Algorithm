@@ -147,6 +147,7 @@
 |134|0|[두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/8e315103d2e7b48684f4fc26e4f72ef4d40ed7cb)|230406|
 |135|0|[진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/43196fda1f6d2dd00117ad1f8e1c93eba81d9aa1)|230407|
 |136|0|[한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/8b217acf7491ce1a5ddbaeef1383931422043d1f)|230408|
+|137|0|[최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/977eece16481cc66ce88410b524aafda0aa0435f)|230409|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
