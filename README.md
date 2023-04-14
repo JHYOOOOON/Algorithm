@@ -150,6 +150,7 @@
 |137|0|[최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/977eece16481cc66ce88410b524aafda0aa0435f)|230409|
 |138|0|[2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/adff276907b1e7a812f3f41c6fcb9e76b2b66f08)|230410|
 |139|0|[순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/5f4a0816886c7d31fa17566188424c29c95639f6)|230411|
+|140|0|[k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/5c74f529031fb669bf5123489fcc013594fa9a79)|230414|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
