@@ -152,6 +152,7 @@
 |139|0|[순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/5f4a0816886c7d31fa17566188424c29c95639f6)|230411|
 |140|0|[k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/5c74f529031fb669bf5123489fcc013594fa9a79)|230414|
 |141|0|[팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/79919729efce6f1f0bfff560401afc0e36a4d1b9)|230415|
+|142|0|[종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/5600c29c32bf871151b32d9c6952efbbeaa4cc18)|230417|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
