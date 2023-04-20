@@ -154,6 +154,7 @@
 |141|0|[팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/79919729efce6f1f0bfff560401afc0e36a4d1b9)|230415|
 |142|0|[종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/5600c29c32bf871151b32d9c6952efbbeaa4cc18)|230417|
 |143|0|[점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/e923963ae42acce3e96a75cedfe8d5a80f7517f2)|230418|
+|144|0|[점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/181887)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/934a98f49b0f5d2af8bddf224b555f5457bef4b5)|230420|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
