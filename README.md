@@ -160,6 +160,7 @@
 |147|2|[테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/b8f03ca588d5f5c59a1cc02780212f2d822feb2a)|230424|
 |148|1|[자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/92170149061780bcd185b11ba37bb28584b5a764)|230425|
 |149|0|[qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/62ca9479505f97bd4f0757a279d6d398fa551b13)|230426|
+|150|0|[배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%EB%B0%B0%EC%97%B4%EB%A7%8C%EB%93%A4%EA%B8%B03.js)|230427|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
