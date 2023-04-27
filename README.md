@@ -155,6 +155,11 @@
 |142|0|[종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/5600c29c32bf871151b32d9c6952efbbeaa4cc18)|230417|
 |143|0|[점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/e923963ae42acce3e96a75cedfe8d5a80f7517f2)|230418|
 |144|0|[점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/181887)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/934a98f49b0f5d2af8bddf224b555f5457bef4b5)|230420|
+|145|0|[문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/79919729efce6f1f0bfff560401afc0e36a4d1b9)|230421|
+|146|1|[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/3d8f00061feb7b4609f51ecbb77a121c882be50f)|230422|
+|147|2|[테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/b8f03ca588d5f5c59a1cc02780212f2d822feb2a)|230424|
+|148|1|[자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138)|[MySQL](https://github.com/JHYOOOOON/Algorithm/commit/92170149061780bcd185b11ba37bb28584b5a764)|230425|
+|149|0|[qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/62ca9479505f97bd4f0757a279d6d398fa551b13)|230426|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
