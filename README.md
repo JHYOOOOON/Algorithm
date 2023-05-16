@@ -171,6 +171,7 @@
 |158|0|[문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/ec9bf45cf90e2e19d5b8e7c51c776f5fe68af63f)|230513|
 |159|0|[리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/e56e10d6202a92e69becb380e635fadc2bc8e429)|230514|
 |160|0|[ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/a4554a3e5e532bf7d4f5a473800b73f9ad2f3d96)|230515|
+|161|0|[배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/9d128e77369e217a23df0c72a71da860dd8b8a79)|230516|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
