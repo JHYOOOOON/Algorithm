@@ -181,7 +181,7 @@
 |168|0|[할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/a88a4941b498c81fae7813b46fc2eefd6cf6a23d)|230524|
 |169|0|[공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/acfce8f919fb044023a59a62f919130c72014d79)|230525|
 |170|0|[1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/49a3e4f68ee97682ed6ef2482657a113c799844f)|230526|
-
+|171|0|[5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/801dcd78f5280868feea87aaa983b57e6b0534a2)|230528|
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
 |:---:|:---:|:---:|:---:|:---:|
