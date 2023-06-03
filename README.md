@@ -185,6 +185,7 @@
 |178|0|[원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/dfdae175a576595c5cd4cafbf633472f0eea12ef)|230531|
 |179|0|[이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/0f3af2461118ae1bd4a76311f7ab8ee0b156ab1b)|230601|
 |180|0|[n 번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/709ac24eea7884321bb0399ad392c4774b207eb1)|230602|
+|181|0|[n 번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/b969f0bd4b045af9c7aaaa161aa17e838bd8abc0)|230603|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
