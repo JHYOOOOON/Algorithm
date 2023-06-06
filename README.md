@@ -188,6 +188,7 @@
 |181|0|[n 번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/b969f0bd4b045af9c7aaaa161aa17e838bd8abc0)|230603|
 |182|0|[세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/9e3ff0ca42e29dfc7d446db05a528d9be9dc188f)|230604|
 |183|0|[x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/834d258b65cae82c65db2a96836fababbdc24dab)|230605|
+|184|0|[접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/11a32bc684ed10bf94b521aee3473ad049f2544e)|230606|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
