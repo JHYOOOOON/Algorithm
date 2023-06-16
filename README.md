@@ -196,6 +196,7 @@
 |189|0|[문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/8b32aacf3f7d78dcf5312a506f50e42ddb6f4669)|230612|
 |190|0|[정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/11b3e88fae8f3dacd8c1a51c374ad11156235c12)|230613|
 |191|0|[2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/9f400f1b10861ed31237e5357aabf0590ce3c780)|230613|
+|192|0|[배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/d5797ab5dc13f943b4b043bb591000ca163ef208)|230616|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
