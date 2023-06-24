@@ -203,6 +203,7 @@
 |196|0|[소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/a34d076b6bfc0a4238855b7b985553fc1b7b9a5b)|230621|
 |197|0|[대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/13a4e3a77995d9f76c945aefcbe397e3731adad3)|230622|
 |198|0|[부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/d52497d59763f6e15f6d27d93ebe3324d7254aee)|230623|
+|199|0|[글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/6ba589f7d0008d5ecebbd407ba2660ca460c7e1b)|230624|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
