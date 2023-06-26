@@ -205,6 +205,7 @@
 |198|0|[부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/d52497d59763f6e15f6d27d93ebe3324d7254aee)|230623|
 |199|0|[글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/6ba589f7d0008d5ecebbd407ba2660ca460c7e1b)|230624|
 |200|0|[배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/ef595fa86cfd4fb06106e300c32174c029d03e85)|230625|
+|201|0|[l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/336e168aa5321179ce1aedc73534459affe41a7d)|230626|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
