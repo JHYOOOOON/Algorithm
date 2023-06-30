@@ -209,6 +209,7 @@
 |202|0|[뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/6a725a3f96fcb7cfb341b8061d15299b656e1acd)|230627|
 |203|0|[접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/ee6d21e3d3df2a652be73d195638690fb3a4bc33)|230628|
 |204|2|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/51698c8c69b53007ca142c8f74ff12945977f4b8)|230629|
+|205|2|[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/cd4d6055c481cf26266207aed11cee13dcf45fb3)|230630|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
