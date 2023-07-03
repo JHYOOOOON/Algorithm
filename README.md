@@ -212,6 +212,7 @@
 |205|2|[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/cd4d6055c481cf26266207aed11cee13dcf45fb3)|230630|
 |206|1|[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/962b3edebf98a7c32421e4140bd223caf12b8ad6)|230701|
 |207|2|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/01d56c84d4833f6daa087f45476afebb79025f01)|230702|
+|208|0|[수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/12fc254f7473e36e80f316969725c1d6e6ff13ef)|230703|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
