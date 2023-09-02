@@ -222,6 +222,7 @@
 |215|4|[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/bb29acfa2765dc79e495e899130c36a91007967b)|230730|
 |216|1|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/9d1f4351bf6a19cefee5eb6ae796735dd75dbe42)|230805|
 |217|2|[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/1548c87586f156b8d0b79eb96fe8953ae9277085)|230810|
+|218|0|[옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/cc0e669cc417d6f08a3f7b410acd781e0734e252)|230902|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
