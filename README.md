@@ -226,6 +226,7 @@
 |219|0|[문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/1a8a14b71073c5e284fb22e473c2213f26bf1ac2)|230902|
 |220|0|[n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/0ae82b00f13990b23c7a72c20b1cea84247c10a4)|230902|
 |221|0|[길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/b147040ac7062785cf0e2b486ac6a364123aa19c)|230903|
+|222|0|[커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/f365688145fc3d38da53149c42cdc9a6667bd98d)|230905|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
