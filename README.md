@@ -228,6 +228,7 @@
 |221|0|[길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/b147040ac7062785cf0e2b486ac6a364123aa19c)|230903|
 |222|0|[커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/f365688145fc3d38da53149c42cdc9a6667bd98d)|230905|
 |223|0|[공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/bd5d5bf21034010d772e70b18eb0356991d1dd66)|230912|
+|224|0|[A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/fa65afb22d83bf8999b697021651d828c3390a22)|230913|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
