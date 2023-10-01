@@ -231,6 +231,7 @@
 |224|0|[A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/fa65afb22d83bf8999b697021651d828c3390a22)|230913|
 |225|0|[공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/876c96dc44d1f54116edf6e17905bdb88b26d8e8)|230921|
 |226|0|[조건에 맞게 수열 변환하기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181835)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/51c9d2fcde4ca82b42ac71275e8f429b2dd86d78)|230924|
+|227|0|[삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/00263d7e3a1795d289b7c78985f97f5e30d2a674)|231001|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
