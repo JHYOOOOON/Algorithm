@@ -262,3 +262,4 @@
 |10|Easy|[Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/?envType=study-plan-v2&envId=30-days-of-javascript)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/8c62c158045f114af523c6c04c87c469ddae7d07)|231005|
 |11|Easy|[Counter](https://leetcode.com/problems/counter/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/096891ff0e60a5350667d1417b6c58ffbd9da6bd)|231005|
 |12|Easy|[To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/?envType=study-plan-v2&envId=30-days-of-javascript)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/685f62f623d491c17b057ae48da644a2ec016d24)|231005|
+|13|Easy|[Counter II](https://leetcode.com/problems/counter-ii/description/?envType=study-plan-v2&envId=30-days-of-javascript)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/e56f67c87b5f4e08c070abe15df80968b3cb6e0d)|231005|
