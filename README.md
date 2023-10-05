@@ -260,3 +260,5 @@
 |8|Easy|[Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/description/?envType=study-plan&id=algorithm-i)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/c4195f1292172a5e906106d47ef3a59c7ee4fcdc)|230329|
 |9|Easy|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/7d2ee1df7e4da20071ec3296585e5cc069940455)|230511|
 |10|Easy|[Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/?envType=study-plan-v2&envId=30-days-of-javascript)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/8c62c158045f114af523c6c04c87c469ddae7d07)|231005|
+|11|Easy|[Counter](https://leetcode.com/problems/counter/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/096891ff0e60a5350667d1417b6c58ffbd9da6bd)|231005|
+|12|Easy|[To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/?envType=study-plan-v2&envId=30-days-of-javascript)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/685f62f623d491c17b057ae48da644a2ec016d24)|231005|
