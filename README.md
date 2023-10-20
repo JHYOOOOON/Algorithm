@@ -266,3 +266,4 @@
 |14|Easy|[Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/9c7ae0fb119c4b050073f8296e65379a18ffd026)|231005|
 |15|Easy|[Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/88b5666f6c87a8e9b64e23213d67a84079bad671)|231005|
 |16|Easy|[Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/b015ed630e03bea1654ebae90e374d4b593b9847)|231005|
+|17|Easy|[Pascal's triangle](https://leetcode.com/problems/pascals-triangle/description/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/fb7c11bfebaa660419341ace3721cf41686f0607)|231020|
