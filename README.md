@@ -233,6 +233,7 @@
 |226|0|[조건에 맞게 수열 변환하기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181835)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/51c9d2fcde4ca82b42ac71275e8f429b2dd86d78)|230924|
 |227|0|[삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/00263d7e3a1795d289b7c78985f97f5e30d2a674)|231001|
 |228|0|[원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/685f62f623d491c17b057ae48da644a2ec016d24)|231002|
+|229|3|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/fb8f02585851558b67758cecc15f2cfcbaf894bf)|231115|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
