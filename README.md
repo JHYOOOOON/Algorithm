@@ -234,6 +234,7 @@
 |227|0|[삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/00263d7e3a1795d289b7c78985f97f5e30d2a674)|231001|
 |228|0|[원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/685f62f623d491c17b057ae48da644a2ec016d24)|231002|
 |229|3|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/fb8f02585851558b67758cecc15f2cfcbaf894bf)|231115|
+|230|3|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|[C++](https://github.com/JHYOOOOON/Algorithm/commit/c87c604939ebf3365210a936d90d6dc24920500a)|231115|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
