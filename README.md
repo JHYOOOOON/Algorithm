@@ -236,6 +236,8 @@
 |229|3|[불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/fb8f02585851558b67758cecc15f2cfcbaf894bf)|231115|
 |230|3|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|[C++](https://github.com/JHYOOOOON/Algorithm/commit/c87c604939ebf3365210a936d90d6dc24920500a)|231115|
 |231|0|[정수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181840)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/75c424391be25aa8358b01b0acf78c8bdfe13ffa)|231214|
+|232|0|[배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%EB%B0%B0%EC%97%B4%EB%A7%8C%EB%93%A4%EA%B8%B01.js)|240108|
+|233|0|[rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/868fe42fd23e9a63edfdc000f81c5a36d129eab1)|240108|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
