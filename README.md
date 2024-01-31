@@ -239,6 +239,7 @@
 |232|0|[배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)|[Javascript](https://github.com/JHYOOOOON/Algorithm/blob/main/programmers/%EB%B0%B0%EC%97%B4%EB%A7%8C%EB%93%A4%EA%B8%B01.js)|240108|
 |233|0|[rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/868fe42fd23e9a63edfdc000f81c5a36d129eab1)|240108|
 |234|0|[n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/8195184b57f3e156ea0f4dc9f886581f61b5ab4f)|240109|
+|235|1|[가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/dfbacf1c3ecbbee7a8d141a50163ee7b4c580b20)|240131|
 
 ### 🌊 백준
 |순번|레벨|[번호]제목|풀이|날짜|
