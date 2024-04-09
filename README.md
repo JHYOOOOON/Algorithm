@@ -276,3 +276,4 @@
 |16|Easy|[Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/b015ed630e03bea1654ebae90e374d4b593b9847)|231005|
 |17|Easy|[Pascal's triangle](https://leetcode.com/problems/pascals-triangle/description/)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/fb7c11bfebaa660419341ace3721cf41686f0607)|231020|
 |18|Easy|[Happy Number](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/065b70e9d73ad753152fef8259762b1f4090c638)|240408|
+|19|Easy|[Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)|[Javascript](https://github.com/JHYOOOOON/Algorithm/commit/b37e92a4667ec05f8ea14df485d90deeed51dec9)|240409|
